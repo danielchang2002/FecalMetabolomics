@@ -1,8 +1,6 @@
 # Mayo Clinic Data
 *.xlsx
-
-# Notebook Output 
-output/*
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
