@@ -1,3 +1,0 @@
-## Output
-
-Output from notebooks
