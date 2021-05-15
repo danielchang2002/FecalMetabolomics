@@ -1,6 +1,7 @@
-# Mayo Clinic Data
+# Data/output
 *.xlsx
 *.csv
+*png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
